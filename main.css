@@ -722,13 +722,6 @@ footer .foot-2 .fa-github {
         margin: 20px 0;
         font-size: 25px;
     }
-    .home .home-content {
-      background: url("images/banner.jpg");
-      background-repeat: no-repeat;
-      background-size: 100%;
-      height: 100vh;
-      font-family: 'Ubuntu', sans-serif;
-    }
     .home .home-content .text-2 {
         font-size: 70px;
     }

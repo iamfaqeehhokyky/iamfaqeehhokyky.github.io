@@ -722,6 +722,12 @@ footer .foot-2 .fa-github {
         margin: 20px 0;
         font-size: 25px;
     }
+    .home {
+      display: flex;
+      background: url("images/banner.jpg");
+      background-repeat: no-repeat;
+      background-size: 100%;
+    }
     .home .home-content .text-2 {
         font-size: 70px;
     }
